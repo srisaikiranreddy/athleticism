@@ -3,8 +3,8 @@ Athleticism is fully hosted in on AWS platform. It is web based project consisti
 
 ## App Architecture
 [PresentationLayerRepoLink](https://github.com/srisaikiranreddy/athleticism-ui.git)
-[BussinessLayerRepoLink](https://github.com/srisaikiranreddy/athleticism-webapi.git)
 
+[BussinessLayerRepoLink](https://github.com/srisaikiranreddy/athleticism-webapi.git)
 
 
 ## Network Architecture
