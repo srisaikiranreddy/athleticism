@@ -8,7 +8,8 @@ Athleticism is fully hosted in on AWS platform. It is web based project consisti
 
 
 ## Network Architecture
-[athleticism-vpc](https://google.com)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[athleticism-vpc cloud formation template](https://google.com)
+
+![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-vpc.png)
 
 
