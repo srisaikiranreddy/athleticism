@@ -1,6 +1,6 @@
 # (Developement work in progress.)
 # Athleticism
-Athleticism is fully hosted in on AWS platform. It is web based project consisting of 3-tier architecture consisting of presentation layer, bussiness layer and data layer.
+Athleticism is fully hosted in on AWS platform and web based project.
 
 ## App Architecture 
 The application is layered architecture consists 3 tier consisting of presentation layer, busssiness layer and data layer. (Note: Futher scope of micro services architecture, make more loosely coupled components communicating with each other.)
