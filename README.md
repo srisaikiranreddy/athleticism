@@ -12,6 +12,13 @@ Athleticism is fully hosted in on AWS platform. It is web based project consisti
 ## Network Architecture
 [athleticism-vpc cloud formation template](https://github.com/srisaikiranreddy/athleticism/blob/main/scripts/athleticism-vpc.template)
 
+The application consists of 3-tier architecture(1-public & 2 private). 
+
+Public tier
+-aplication load balancer
+-NAT Gateway
+Private tier
+
 ![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-vpc.png)
 
 
