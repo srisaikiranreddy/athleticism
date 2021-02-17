@@ -3,7 +3,7 @@
 Athleticism is fully hosted on AWS platform and web based project.
 
 ## Demo
-
+Note: Due to budget & cost of hosting and maintaining the project. I am able to provide only localhost demo. 
 ## App Architecture 
 The application is layered architecture consists 3 tier consisting of presentation layer, busssiness layer and data layer. (Note: Futher scope of micro services architecture, make more loosely coupled components communicating with each other.)
 - [athleticism-ui](https://github.com/srisaikiranreddy/athleticism-ui.git) : Athleticism UI is presentation layer consisting of GUI. The technology used for developing GUI is Angular. 
