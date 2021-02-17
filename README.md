@@ -1,6 +1,6 @@
 # (Developement work in progress.) The project is not hosted.
 # Athleticism
-Athleticism is fully hosted in on AWS platform and web based project.
+Athleticism is fully hosted on AWS platform and web based project.
 
 ## Demo
 
