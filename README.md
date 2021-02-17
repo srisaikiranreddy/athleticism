@@ -1,6 +1,8 @@
-# (Developement work in progress.)
+# (Developement work in progress.) The project is not hosted.
 # Athleticism
 Athleticism is fully hosted in on AWS platform and web based project.
+
+## Demo
 
 ## App Architecture 
 The application is layered architecture consists 3 tier consisting of presentation layer, busssiness layer and data layer. (Note: Futher scope of micro services architecture, make more loosely coupled components communicating with each other.)
@@ -12,9 +14,7 @@ The application is layered architecture consists 3 tier consisting of presentati
 
 
 ## Network Architecture
-[athleticism-vpc cloud formation template](https://github.com/srisaikiranreddy/athleticism/blob/main/scripts/athleticism-vpc.template)
-
-The application consists of 3-tier architecture(1 public layer & 2 private layer). The VPC consists of security groups, NAT Gatways, 6 subnets with two avalilablity zones(2 public subnets, 4 private subnets{2 subnets for ec2 instances, 2 subnets for db}), internet gateway attached to VPC. 
+- [athleticism-vpc](https://github.com/srisaikiranreddy/athleticism/blob/main/scripts/athleticism-vpc.template): This is Cloud Formation template, the application consists of 3-tier architecture(1 public layer & 2 private layer). The VPC consists of security groups, NAT Gatways, 6 subnets with two avalilablity zones(2 public subnets, 4 private subnets{2 subnets for ec2 instances, 2 subnets for db}), internet gateway attached to VPC. 
 
 - Public tier
   - ApplicationLoadBalancer
