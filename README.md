@@ -4,8 +4,7 @@ Athleticism is fully hosted on AWS platform and web-based project.
 
 ## Demo
 Note: Due to budget & cost of hosting and maintaining the project. I am able to provide only localhost demo.
-  ### Video: Coming soon
-  ---[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+  ### Video: Coming soon 
   ### Screenshots
   - athleticism-ui-screenshoots
     ![athleticism-ui1](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui2.png)    
