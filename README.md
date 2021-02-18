@@ -7,10 +7,12 @@ Note: Due to budget & cost of hosting and maintaining the project. I am able to 
   - Video: Coming soon
   - Screenshots
     - athleticism-ui-screenshoots
-    ![athleticism-ui1](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui1.png)    
+    ![athleticism-ui1](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui2.png)    
     ![athleticism-ui2](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui3.png)
     - athleticism-webapi screenshoots
+    ![athleticism-webapi](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-webapi..png)    
     - athleticism-sqlscripts screenshoots
+    ![athleticism-sqlscripts](https://github.com/srisaikiranreddy/athleticism/blob/main/img/postgres-db.png)
 ## App Architecture 
 The application is layered architecture consists 3 tier consisting of presentation layer, business layer and data layer. (Note: Further scope of microservices architecture, make more loosely coupled components communicating with each other.)
 - [athleticism-ui](https://github.com/srisaikiranreddy/athleticism-ui.git) : Athleticism UI is presentation layer consisting of GUI. The technology used for developing GUI is Angular. 
