@@ -10,7 +10,7 @@ Note: Due to budget & cost of hosting and maintaining the project. I am able to 
     ![athleticism-ui1](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui2.png)    
     ![athleticism-ui2](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui3.png)
     - athleticism-webapi screenshoots
-    ![athleticism-webapi](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-webapi..png)    
+    ![athleticism-webapi](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-webapi.png)    
     - athleticism-sqlscripts screenshoots
     ![athleticism-sqlscripts](https://github.com/srisaikiranreddy/athleticism/blob/main/img/postgres-db.png)
 ## App Architecture 
