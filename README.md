@@ -4,7 +4,7 @@ Athleticism is fully hosted on AWS platform and web-based project.
 
 ## Demo
 Note: Due to budget & cost of hosting and maintaining the project. I am able to provide only localhost demo.
-  ### Video: Coming soon 
+  ### Video: https://youtu.be/QrFHWQ4Cd1c
   
 ## App Architecture 
 The application is layered architecture consists 3 tier consisting of presentation layer, business layer and data layer. (Note: Further scope of microservices architecture, make more loosely coupled components communicating with each other.)
