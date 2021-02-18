@@ -7,9 +7,8 @@ Note: Due to budget & cost of hosting and maintaining the project. I am able to 
   - Video: Coming soon
   - Screenshots
     - athleticism-ui-screenshoots
-    ![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui1.png)
-    ![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui2.png)
-    ![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui3.png)
+    ![athleticism-ui1](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui1.png)    
+    ![athleticism-ui2](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-ui3.png)
     - athleticism-webapi screenshoots
     - athleticism-sqlscripts screenshoots
 ## App Architecture 
