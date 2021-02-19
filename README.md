@@ -20,13 +20,14 @@ The application is layered architecture consists 3 tier consisting of presentati
 - [athleticism-vpc](https://github.com/srisaikiranreddy/athleticism/blob/main/scripts/athleticism-vpc.template): This is Cloud Formation template, the application consists of 3-tier architecture(1 public layer & 2 private layer). The VPC consists of security groups, NAT Gateways, 6 subnets with two availability zones(2 public subnets, 4 private subnets{2 subnets for ec2 instances, 2 subnets for db}), internet gateway attached to VPC. 
 
 - Public tier
-  - ApplicationLoadBalancer
-  - NAT Gateway
+  - ApplicationLoadBalancer
+  - NAT Gateway
 - First Private tier
   - AutoScalingGroup
-  - EC2 Instances
+  - EC2 Instances
 - Second Private tier
-  - Database
+  - Database
+  
 ![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-vpc.png)
 
 ## App Screenshots
