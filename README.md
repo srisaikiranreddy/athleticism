@@ -27,7 +27,7 @@ The application is layered architecture consists 3 tier consisting of presentati
   - EC2 Instances
 - Second Private tier
   - Database
-  
+  
 ![athleticism-vpc-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/athleticism-vpc.png)
 
 ## App Screenshots
