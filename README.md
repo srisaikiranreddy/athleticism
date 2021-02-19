@@ -13,7 +13,7 @@ The application is layered architecture consists 3 tier consisting of presentati
 - [athleticism-webapi](https://github.com/srisaikiranreddy/athleticism-webapi.git) : Athleticism Web API is bussines layer. It is restful web services. The technology used for developing Web API is .net core and ORM used npgsql.entityframework for connecting to PostgresSQL Server.
 - [athleticism-sqlscripts](https://github.com/srisaikiranreddy/athleticism-sqlscripts.git) : Sql Scripts for CRUD operations on PostgresSQL Server. 
 
-![app-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/app.png)
+![app-img](https://github.com/srisaikiranreddy/athleticism/blob/main/img/app-architecture.png)
 
 
 ## Network Architecture
