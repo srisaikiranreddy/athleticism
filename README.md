@@ -23,7 +23,7 @@ The application is layered architecture consists 3 tier consisting of presentati
   - ApplicationLoadBalancer
   - NAT Gateway
 - First Private tier
-  - AutoScalingGroup
+  - AutoScalingGroup
   - EC2 Instances
 - Second Private tier
   - Database
